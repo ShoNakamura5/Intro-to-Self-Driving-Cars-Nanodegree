@@ -1,5 +1,6 @@
 # Udacity-Intro-to-Self-Driving-Cars-Nanodegree
 
+## Chapters
 The Course contents are segregated into the following.
 
 1. Orientation
@@ -11,4 +12,5 @@ The Course contents are segregated into the following.
 7. Vehicle Motion and Control
 8. Computer Vision And Machine Learning
 
+## Certificate
 ![](https://github.com/ShoNakamura5/Intro-to-Self-Driving-Cars-Nanodegree/blob/main/Intro%20to%20Self-Driving%20Cars%20Nanodegree%20Certificate.png)
