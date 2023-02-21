@@ -11,4 +11,4 @@ The Course contents are segregated into the following.
 7. Vehicle Motion and Control
 8. Computer Vision And Machine Learning
 
-([Intro to Self-Driving Cars Nanodegree Certificate.png](https://github.com/ShoNakamura5/Intro-to-Self-Driving-Cars-Nanodegree/blob/main/Intro%20to%20Self-Driving%20Cars%20Nanodegree%20Certificate.png))
+![]https://github.com/ShoNakamura5/Intro-to-Self-Driving-Cars-Nanodegree/blob/main/Intro%20to%20Self-Driving%20Cars%20Nanodegree%20Certificate.png
