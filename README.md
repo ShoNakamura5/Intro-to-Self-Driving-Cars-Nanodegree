@@ -24,4 +24,3 @@ The Course contents are segregated into the following.
 ## Certificate
 ![](https://github.com/ShoNakamura5/Intro-to-Self-Driving-Cars-Nanodegree/blob/main/Intro%20to%20Self-Driving%20Cars%20Nanodegree%20Certificate.png)
 
-a
